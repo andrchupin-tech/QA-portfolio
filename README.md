@@ -58,7 +58,3 @@
 
 ## Что внутри
 - [manual-testing/](./manual-testing/) — тест-кейсы и чек-листы, примеры баг-репортов
-
-## Контакты
-- Email: andrchupin@gmail.com
-- Telegram: @andrchup
